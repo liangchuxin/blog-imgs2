@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="115px" height="114px" viewBox="0 0 115 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-1133.000000, -311.000000)" stroke="#13408D">
+            <g id="副-menu" transform="translate(0.000000, 273.000000)">
+                <g id="编组-2" transform="translate(38.000000, 38.000000)">
+                    <g id="编组" transform="translate(1095.000000, 0.000000)">
+                        <line x1="51.5" y1="39.5" x2="42" y2="50" id="直线" stroke-width="4" stroke-linecap="round"></line>
+                        <line x1="75" y1="50" x2="42" y2="50" id="直线" stroke-width="4" stroke-linecap="round"></line>
+                        <line x1="75" y1="64" x2="42" y2="64" id="直线" stroke-width="4" stroke-linecap="round"></line>
+                        <line x1="75" y1="64" x2="65" y2="74" id="直线" stroke-width="4" stroke-linecap="round"></line>
+                        <rect id="矩形" stroke-width="3" x="1.5" y="1.5" width="112" height="111" rx="21"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
